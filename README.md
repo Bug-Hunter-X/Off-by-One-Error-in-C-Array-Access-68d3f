@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in C. The code attempts to access an element beyond the bounds of an array, which can lead to undefined behavior.  The solution provides a corrected version with the loop condition adjusted to prevent the out-of-bounds access.
